@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/icon-lightoff-disabled.png</file>
+        <file>resources/icon-lightoff-hover.png</file>
+        <file>resources/icon-lightoff-norm.png</file>
+        <file>resources/icon-lightoff-press.png</file>
+        <file>resources/icon-lighton-disabled.png</file>
+        <file>resources/icon-lighton-hover.png</file>
+        <file>resources/icon-lighton-norm.png</file>
+        <file>resources/icon-lighton-press.png</file>
+        <file>resources/icon-monitor-disabled.png</file>
+        <file>resources/icon-monitor-hover.png</file>
+        <file>resources/icon-monitor-norm.png</file>
+        <file>resources/icon-monitor-press.png</file>
+    </qresource>
+</RCC>
