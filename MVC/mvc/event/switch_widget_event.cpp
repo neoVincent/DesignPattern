@@ -1,4 +1,4 @@
-#include "event\switch_widget_event.h"
+#include "event/switch_widget_event.h"
 
 #include <QCoreApplication>
 
